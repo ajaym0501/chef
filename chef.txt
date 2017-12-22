@@ -1,0 +1,8 @@
+chef-server installation
+http://whatizee.blogspot.in/2016/06/standalone-chef-server-workstation.html
+
+chef-workstation
+https://www.linode.com/docs/applications/chef/deploy-a-chef-server-workstation-and-node-on-ubuntu-14-04
+
+creating recipe
+https://www.linode.com/docs/applications/chef/creating-your-first-chef-cookbook
